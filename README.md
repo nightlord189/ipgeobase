@@ -1,5 +1,7 @@
 # Ipgeobase
 
+[![Ruby](https://github.com/nightlord189/ipgeobase/actions/workflows/main.yml/badge.svg)](https://github.com/nightlord189/ipgeobase/actions/workflows/main.yml)
+
 Test project on Ruby profession on Hexlet.io.
 
 Module that allows to extract metadata by IP-address:
